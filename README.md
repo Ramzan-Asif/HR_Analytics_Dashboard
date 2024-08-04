@@ -23,9 +23,9 @@ Salary Insights: Visualized salary trends and disparities to ensure fair compens
 **Open Power BI File:** Open the provided Power BI (.pbix) file in Power BI Desktop.
 **Explore the Dashboard:** Interact with the various visuals and filters to explore the HR data and derive insights.
 
-### Screenshots
+### Screenshot
 
-
+![Screenshot 2024-08-04 101822](https://github.com/user-attachments/assets/518c73e6-2e22-45f6-977f-ba0d37beb132)
 
 ### Let's Connect
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/ramzan-asif/) if you'd like to discuss the project or share your feedback. Let's keep learning and growing together!
